@@ -1,6 +1,6 @@
 # Digital Systems Class Repository
 
-Welcome to my repository for the Digital Systems class! In this course, I worked with the Terasic DE10-Lite which is a Altera MAX 10 based FPGA board, a 32-bit Arm Cortex-M4 Wi-Fi® wireless MCU, to complete various labs. Additionally, I utilized Quartus, a programmable logic device design software, to write Verilog code and program the FPGA board, while also using ModelSim for result simulation. Below, you'll find information about the labs I completed during the course.
+Welcome to my repository for the Digital Systems class with emphasis on hardware description languages (VHDL), logic synthesis, and field-programmable gate arrays (FPGA).! In this course, I worked with the Terasic DE10-Lite which is a Altera MAX 10 based FPGA board, a 32-bit Arm Cortex-M4 Wi-Fi® wireless MCU, to complete various labs. Additionally, I utilized Quartus, a programmable logic device design software, to write Verilog code and program the FPGA board, while also using ModelSim for result simulation. Below, you'll find information about the labs I completed during the course.
 
 ## Lab 1: Implementing Combinational Logic in the MAX10 FPGA
 This lab consisted of 2 parts. Please refer to the [report](https://github.com/almtorres805/eec180/blob/main/Lab1_submission/Lab1_submission/lab1%20(3).pdf) for important information such as, simulated results, Karnaugh maps, truth tables, snippets, and more.
